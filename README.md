@@ -9,7 +9,7 @@
 
 ### 🚀 Hackathon Experience  
 
-- **Smart India Hackathon (SIH) 2024 (Sept 2 & 4, 2024)**: Proposed innovative solutions for a **freelancing platform** and developed an **AI-powered Defective Exhibit Identification System** for real-time defect detection in galleries.
+- **Smart India Hackathon (SIH) 2024 (Sept 2 & 4, 2022)**: Proposed innovative solutions for a **freelancing platform** and developed an **AI-powered Defective Exhibit Identification System** for real-time defect detection in galleries.
 
 ---
 
@@ -38,7 +38,7 @@
 ## 📜 Certifications & Achievements  
 
 🎓 **Education:**  
-- **B.Tech in ECE**, Annamacharya Institute of Technology and Sciences, Tirupati (2021 - 2025)  
+- **B.Tech in ECE**, Annamacharya Institute of Technology and Sciences, Tirupati (2019 - 2023)  
 
 🏅 **Certifications:**  
 - **[Java Development Intern - Cognifyz](https://media.licdn.com/dms/image/v2/D5622AQEck7yB1-iyYQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1719075432275?e=1743033600&v=beta&t=I-f_ejNLnnluXqOPngW0pP5HK3P0feQIADVVDEMANg4)**  
@@ -61,7 +61,6 @@
 
 📩 **Email:** ramparushu702@gmail.com  
 📍 **Location:** Bangalore, India  
-🔗 **Portfolio:** [My Website](https://stellar-jelly-b54af0.netlify.app/)  
 💼 **GitHub:** [parushu18](https://github.com/parushu18)  
 🔗 **LinkedIn:** [Parasuram Kuruba](https://www.linkedin.com/in/parasuram-kuruba)  
 
